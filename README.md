@@ -11,14 +11,14 @@ I rest I used N/A in order to preserve the data. For duplicates the unique ID wa
 
 Data Analysis: First for further accuracy the text was all converted into small letter for the categories . I started by looking at accidents and incidents concerning Make and Model of aircrafts, looking at least accident prone and least injury prone.A recommendation given on models and makes by accident/incident value,concluding with a data at looks at incidents and the lowest amount of incidents.
 
-
 The second was on air category, they are different kind of aircraft which are categorized by Fatal injuries in ether an incident or accident. creating a graph and data set that lists all categories that have the highest and lowest injuries .
 
-Lastly we look specifically at airplanes. filtering for airplanes and concluding that althrough he most injury in air  craft is airplanes you can further filter for lowest injuries you get a list of all airplanes that are considered to be safe. This means minor damage,lower serious injury etc.
+Lastly we look specifically at airplanes, filtering for airplanes and concluding that althrough he most injury in air  craft is airplanes you can further filter for lowest injuries you get a list of all airplanes that are considered to be safe. This means minor damage,lower serious injury etc.
 
 # The Repository
 The CSV files ae stored inside a folder called Data.
-The repo contains the presentation , the python notebook,and  Readme file.
+The repo contains the presentation.pdf , the Airplane_Analysis.ipynb ,the cleaned_AviationData.csv for the tableau, and the Readme file.
+Other include the presentation.ppt file and the tableau file.
 
 # links
 Here is the link to the Tableau: https://public.tableau.com/views/Accident_Aviation/Dashboard4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
