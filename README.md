@@ -20,8 +20,8 @@ Lastly, we look specifically at airplanes, filtering for airplanes and concludin
 
 # The Repository
 The CSV files ae stored inside a folder called Data.
-The repo contains the presentation.pdf , the Airplane_Analysis.ipynb ,the cleaned_AviationData.csv for the tableau, and the Readme file.
-Other include the presentation.ppt file and the tableau file.
+The repo contains the presentation.pdf, the Airplane_Analysis.ipynb, the cleaned_AviationData.csv for the tableau, and the Readme file.
+Others include the presentation.ppt file and the tableau file.
 
-# links
+# Dashboard
 Here is the link to the Tableau: https://public.tableau.com/views/Accident_Aviation/Dashboard4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
